@@ -1,2 +1,2 @@
-script.sh #!/bin/bash
+ #!/bin/bash  script.sh
 echo ${PWD}
