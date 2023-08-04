@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo find . -type d -exec chmod ugo=+x {} \; -type f -exec chmod ugo= {} \;
